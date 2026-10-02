@@ -1,0 +1,1 @@
+The objective is to translate student-performance data into clear visual narratives that can support interpretation and decision-making. The project demonstrates the use of Python visualization libraries to communicate categorical comparisons, ordered patterns, numerical relationships, and multivariable correlations.
